@@ -1,5 +1,5 @@
 # Query-Youtube-Data-API
-_Querying + Searching comments - WIP_ 
+_Query + Searching comments - WIP_ 
 
 
 ```bash
